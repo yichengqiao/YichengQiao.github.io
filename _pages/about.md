@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
+<yichengqiao21 \at gmail dot com>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +22,9 @@ redirect_from:
 
     <section id="about-me">
         <h2>About Me</h2>
-        <p>As a dedicated researcher with a focus on computational biology and autonomous driving technologies, I am passionate about leveraging data science to solve complex problems. Currently, I am enriching my knowledge and skills at Tsinghua University, pursuing a B.Eng. in Data Science and Big Data Technology.</p>
+        <p>
+My ultimate goal of my research is to create safe and controllable strong AI that contributes to human civilization. On one hand, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, and Multimodality Learning. On the other hand, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.
+        </p>
     </section>
 
     <section id="education">
