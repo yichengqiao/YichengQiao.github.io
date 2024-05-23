@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Myguitar.png"
+  avatar           : "Myguitar.jpg"
   name             : "Yicheng 'Yarrow' Qiao "
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
