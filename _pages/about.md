@@ -31,7 +31,7 @@ My ultimate goal of my research is to create safe and controllable strong AI tha
         <h2>Education</h2>
         <ul>
             <li>Tsinghua University, Beijing - Joint Undergraduate Student, School of Vehicle and Mobility (03/2023 – 06/2024)</li>
-            <li>Beijing Sport University, Beijing - B.Eng. in Data Science and Big Data Technology, GPA: 3.79/4.0 (09/2020 – 06/2024)</li>
+            <li>Beijing Sport University, Beijing - B.Eng. in Data Science and Big Data Technology, GPA: 3.97 (09/2020 – 06/2024)</li>
         </ul>
     </section>
 
