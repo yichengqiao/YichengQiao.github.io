@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<yichengqiao21 \at gmail dot com>
+yichengqiao21 at gmail dot com
 <html lang="en">
 <head>
     <meta charset="UTF-8">
