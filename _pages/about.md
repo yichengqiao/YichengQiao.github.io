@@ -16,8 +16,8 @@ redirect_from:
 </head>
 <body>
     <header>
-        <h1>Yicheng Qiao</h1>
-        <p>Contact: (+86) 13366421184 | <a href="mailto:yichengqiao21@gmail.com">yichengqiao21@gmail.com</a> | <a href="GitHub_Link">GitHub</a></p>
+        <h1>Yicheng Qiao (My homepage is under construction)</h1>
+        <p>Contact: (+86) 13366421184 | <a href="mailto:yichengqiao21@gmail.com">yichengqiao21@gmail.com</a> | <a href="https://github.com/YichengQiao">GitHub</a></p>
     </header>
 
     <section id="about-me">
