@@ -23,12 +23,50 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-The ultimate goal of my research is to create safe and controllable Strong AI that contributes to human civilization.
-On the one hand, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, and Multimodality Learning. 
-On the other hand, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.
+        My name is Yicheng Qiao, and I am currently pursuing a joint undergraduate degree in Data Science and Big Data Technology at Tsinghua University and Beijing Sport University. My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of deep learning and computer vision since my sophomore year.
         </p>
-    </section>
+        </section>
+<section id="Rearch Interest">
+        <h2>Rearch Interest and Plan</h2>
+       <p>
+        I am planning to take a gap year to apply for a PhD program in the United States. Then contact me if your lab have the right opportunity. The ultimate goal of my research is to create safe and controllable Strong AI that contributes to human civilization.
+         
+-On the one hand, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, and Multimodality Learning. 
 
+-On the other hand, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.
+
+       </p>
+</section>
+<section id="publications">
+        <h2>Publications & Preprints</h2>
+        <ul>
+             <li>
+                <strong>Coming Work:</strong> <strong>Yicheng Qiao</strong> is currently writing and plans to submit a paper to IEEE Transactions on Intelligent Transportation Systems (T-ITS) and a conference paper to CVPR/AAAI.
+            </li>
+            <li>
+                <strong>Yicheng Qiao</strong>, Wei Liu, Bin Liang, Pengyun Wang, Haopeng Zhang and Junli Yang, "SeMask-Mask2Former: A Semantic Segmentation Model for High Resolution Remote Sensing Images," in <strong>IEEE Aerospace Conference</strong>, 2023. <a href="https://github.com/YichengQiao/SeMask-Mask2Former">[Github]</a> <a href="https://ieeexplore.ieee.org/document/10115761">[PDF]</a>
+            </li>
+            <li>
+                Wenzhuo Liu, Jianli Lu, Junbin Liao, <strong>Yicheng Qiao</strong>, Guoying Zhang, Jiayin Zhu, Bozhang Xu, and Zhiwei Li, "FMDNet: Feature-attention-embedding-based Multimodal-fusion Driving-behavior-classification Network," under <strong>review</strong> in IEEE <strong>Transactions</strong> on Computational Social Systems <strong>(TCSS)</strong>, 2024, <strong>Corresponding author</strong>: <strong>Yicheng Qiao</strong> <a href="https://github.com/YichengQiao/FMDNet">[Github]</a>
+            </li>
+            <li>
+                Wei Liu, He Wang, <strong>Yicheng Qiao</strong>, Junli Yang, Haopeng Zhang, "DLAFNet: Direct LiDAR-Aerial Fusion Network for Semantic Segmentation of 2D Multispectral Aerial Image and 3D LiDAR Point Cloud," under <strong>review</strong> in IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing <strong>(J-STARS)</strong>, 2023. <a href="https://github.com/YichengQiao/DLAFNet">[Github]</a>
+            </li>
+            <li>
+                Wei Liu, He Wang, <strong>Yicheng Qiao</strong>, Bin Liang, Haopeng Zhang and Junli Yang, "DLAFNET: A Direct Fusion Method Of 2D Aerial Image And 3D Lidar Point Cloud For Semantic Segmentation," in International Geoscience and Remote Sensing Symposium <strong>(IGARSS Oral)</strong>, 2023. <a href="https://github.com/YichengQiao/DLAFNet">[Github]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10282837">[PDF]</a>
+            </li>
+            <li>
+                Wenzhuo Liu, <strong>Yicheng Qiao</strong>, Jing Liu, Yongqi Gan, Zongze Li and Guoying Zhang, "Froth edge segmentation in flotation images," in NONFERROUS METALS Mineral Processing Section, 2023
+            </li>
+            <li>
+                Li Wang, Xinyu Zhang, <strong>Yicheng Qiao</strong>, Chuze Wu, Ziying Song, Lei Yang and Jun Li, "Research on 4D Imaging Radar Sensing Technology for Autonomous Driving," under <strong>review</strong> in AUTOMOTIVE ENGINEERING, 2023
+            </li>
+            <li>
+                Mingyan Yin, <strong>Yicheng Qiao</strong>, Dexiao Long Zhang, Jiashun Guo, Minyi Zhu, Can Wang, "Data Augmentation Based on Style Transfer," in Information Technology and Informatization, Issue 11, 2023
+            </li>
+           
+        </ul>
+    </section>
 </body>
 </html>
 
