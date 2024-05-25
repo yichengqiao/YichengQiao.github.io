@@ -17,7 +17,7 @@ redirect_from:
 <body>
     <header>
         <h1>Yicheng Qiao (My homepage is under construction)</h1>
-        <p>Contact: (+86) 13366421184 | <a href="mailto:yichengqiao21@gmail.com">yichengqiao21@gmail.com</a> | <a href="https://github.com/YichengQiao">GitHub</a>  | <a \href="https://scholar.google.com/citations?hl=EN&user=6En0pjMAAAAJ">Google Scholar</a></p>
+        <p>Contact: (+86) 13366421184 | <a href="mailto:yichengqiao21@gmail.com">yichengqiao21@gmail.com</a> | <a href="https://github.com/YichengQiao">GitHub</a>  | <a href="https://scholar.google.com/citations?hl=EN&user=6En0pjMAAAAJ">Google Scholar</a> </p>
     </header>
 
     <section id="about-me">
