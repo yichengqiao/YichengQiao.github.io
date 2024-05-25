@@ -22,12 +22,6 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-            My name is Yicheng Qiao, and I am currently pursuing a joint undergraduate degree in Data Science and Big Data Technology at Tsinghua University and Beijing Sport University. My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of deep learning and computer vision since my sophomore year.<br><br>
-           
-    </section>
-    <section id="about-me">
-        <h2>About Me</h2>
-        <p>
         My name is Yicheng Qiao, and I am currently pursuing a joint undergraduate degree in Data Science and Big Data Technology at Tsinghua University and Beijing Sport University. My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of deep learning and computer vision since my sophomore year.
         </p>
         </section>
@@ -35,7 +29,6 @@ redirect_from:
         <h2>Rearch Interest and Plan</h2>
        <p>
         I am planning to take a gap year to apply for a PhD program in the United States. Then contact me if your lab have the right opportunity.  The ultimate goal of my research is to create safe and controllable strong AI that contributes to human civilization. 
-        </p>
         <ul>
             <li><strong>On the one hand</strong>, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, Multimodality Learning, and Embodied Intelligence.</li>
             <li><strong>On the other hand</strong>, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.</li>
@@ -69,8 +62,7 @@ redirect_from:
             <li>
                 Mingyan Yin, <strong>Yicheng Qiao</strong>, Dexiao Long Zhang, Jiashun Guo, Minyi Zhu, Can Wang, "Data Augmentation Based on Style Transfer," in Information Technology and Informatization, Issue 11, 2023
             </li>
-           
-        </ul>
+           </ul>
     </section>
 </body>
 </html>
