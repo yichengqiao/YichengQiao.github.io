@@ -2,8 +2,8 @@
 main:
   - title: "CV"
     url: /cv/
-  - title："Photoblog"
-    url:/portfolio/  
+  - title: Photoblog"
+    url: /portfolio/
     
 # - title: "Publications"
 #   url: /publications/
@@ -14,7 +14,7 @@ main:
 # - title: "Teaching"
 #   url: /teaching/    
     
-# - title: "Portfolio"
+# - title: Photoblog"
 #   url: /portfolio/
         
 # - title: "Blog Posts"
