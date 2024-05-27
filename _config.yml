@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yicheng Qiao"
+title                    : "Yicheng Qiao/Personal Homepage  "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yicheng Qiao"
 description              : &description "personal description"
 url                      : https://yichengqiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "YichengQiao/yichengqiao.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "Myguitar.png"
   name             : "Yicheng 'Yarrow' Qiao "
   pronouns         : # example: "he/his"  
-  bio              : "亦诚于己，亦宽于人。"Be honest with yourself and lenient with others.""
+  bio              : "亦诚于己，亦宽于人。""Be honest with yourself and lenient with others.""
   location         : "Beijing"
   employer         : "Tsinghua & Beijing Sport University"
   uri              : https://yichengqiao.github.io/ # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "YichengQiao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
