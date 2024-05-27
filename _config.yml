@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yicheng Qiao/Personal Homepage  "
+title                    : "Yicheng Qiao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yicheng Qiao"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Myguitar.png"
   name             : "Yicheng 'Yarrow' Qiao "
   pronouns         : # example: "he/his"  
-  bio              : "亦诚于己，亦宽于人。""Be honest with yourself and lenient with others.""
+  bio              : "Be honest with yourself and lenient with others.""
   location         : "Beijing"
   employer         : "Tsinghua & Beijing Sport University"
   uri              : https://yichengqiao.github.io/ # URL
