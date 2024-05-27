@@ -12,8 +12,8 @@ title                    : "Yicheng Qiao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yicheng Qiao"
 description              : &description "personal description"
-url                      : https://yichengqiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://yichengqiao.github.io/ "# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "YichengQiao/yichengqiao.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
