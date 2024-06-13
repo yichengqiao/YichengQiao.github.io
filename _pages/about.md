@@ -22,7 +22,8 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-        My name is Yicheng Qiao, and I am currently pursuing a joint undergraduate degree in Data Science and Big Data Technology at Tsinghua University and Beijing Sport University. My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of deep learning and computer vision since my sophomore year.
+        I am a joint program student at Tsinghua University and Beijing Sport University, where I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed a joint educational program at Tsinghua University's School of Vehicle and Mobility.
+          My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of Machine Learning and Artificial Intelligence since my sophomore year.
         </p>
         </section>
 <section id="Rearch Interest">
