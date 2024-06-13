@@ -22,7 +22,7 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-        I am Qiao Yicheng, born on November 30, 2001, in Kaifeng City. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to the field of research. 
+        I am Qiao Yicheng, born on November 30, 2001, in Kaifeng City. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to research in computer science.
         </p>
         <p>
         I am a joint program student at Tsinghua University and Beijing Sport University, where I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed a joint educational program at Tsinghua University's School of Vehicle and Mobility.
