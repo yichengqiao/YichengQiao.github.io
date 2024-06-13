@@ -22,7 +22,12 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
+        I am Qiao Yicheng, born on November 30, 2001, in Kaifeng City. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to the field of research. 
+        </p>
+        <p>
         I am a joint program student at Tsinghua University and Beijing Sport University, where I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed a joint educational program at Tsinghua University's School of Vehicle and Mobility.
+        </p>
+         <p>
           My academic journey has been profoundly influenced by the remarkable work of leading researchers in deep learning, which inspired me to delve into this field. With the guidance of patient professors, I have developed a solid understanding of Machine Learning and Artificial Intelligence since my sophomore year.
         </p>
         </section>
