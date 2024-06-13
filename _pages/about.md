@@ -22,19 +22,19 @@ redirect_from:
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-        I am Qiao Yicheng, born on November 30, 2001, in Kaifeng City. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to research in computer science.
+        I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to research in computer science.
         </p>
         <p>
-        I am a joint program student at Tsinghua University and Beijing Sport University, where I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed a joint educational program at Tsinghua University's School of Vehicle and Mobility.
+        I am a joint program student at Tsinghua University and Beijing Sport University. I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed the joint educational program at Tsinghua University's School of Vehicle and Mobility.
         </p>
          <p>
-          My academic journey has been deeply influenced by the remarkable work of leading researchers in deep learning. It inspired me to delve into this field myself. With the guidance of patient professors, I have developed a solid understanding of Machine Learning and Artificial Intelligence since my sophomore year.
+          My academic journey has been deeply influenced by the remarkable work of leading researchers in deep learning. It inspired me to delve into this field myself. Under the guidance of patient professors, I have developed a solid understanding of Machine Learning and Artificial Intelligence since my sophomore year.
         </p>
         </section>
 <section id="Research Interest">
         <h2>Research Interest and Plan</h2>
        <p>
-        I am planning to apply for a PhD program in the United States. Please contact me if your lab has the right opportunity.  The ultimate goal of my research is to create safe and controllable strong AI that contributes to human civilization. 
+        I'm planning to apply for a PhD program in the United States. Please contact me if your lab has the right opportunity for me.  The ultimate goal of my research is to create safe and controllable strong AI that contributes to human civilization. 
         <ul>
             <li><strong>On the one hand</strong>, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, Multimodality Learning, and Embodied Intelligence.</li>
             <li><strong>On the other hand</strong>, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.</li>
