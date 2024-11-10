@@ -33,19 +33,24 @@ redirect_from:
         </section>
 <section id="Research Interest">
         <h2>Research Interest and Plan</h2>
-       <p>
-        I'm planning to apply for a PhD program in the United States. Please contact me if your lab has the right opportunity for me.  The ultimate goal of my research is to create safe and controllable strong AI that contributes to human civilization. 
-        <ul>
-            <li><strong>On the one hand</strong>, I am deeply interested in exploring specific applications such as Artificial General Intelligence (AGI), 3D Computer Vision, Large Language and Vision Models, Multimodality Learning, and Embodied Intelligence.</li>
-            <li><strong>On the other hand</strong>, I want to conduct foundational research in AI, focusing on enhancing the transparency and reliability of machine learning models, making them more bio-inspired and intelligent.</li>
-        </ul>
-       </p>
+        <p> 
+          I'm planning to apply for a PhD program in the United States. If your lab has a suitable opportunity, please feel free to reach out. My ultimate goal is to develop safe and controllable strong AI that contributes to human civilization. 
+        <ul> 
+          <li><strong>On the one hand</strong>, I have a strong interest in large language models (LLMs) and AI agents, with a particular focus on their applications in multimodal learning, embodied intelligence, and 3D computer vision.
+          </li> 
+          <li><strong>On the other hand</strong>, I have extensive practical experience in autonomous driving and generative AI, and I aim to further advance application-driven research in these areas. My goal is to develop AI systems that are safer, more reliable, and capable of efficient deployment in real-world scenarios.
+          </li> 
+        </ul> 
+        </p>
 </section>
 <section id="publications">
         <h2>Publications & Preprints</h2>
         <ul>
              <li>
-                <strong>Coming Work:</strong> <strong>Yicheng Qiao</strong> is currently writing and plans to submit a paper to IEEE Transactions on Intelligent Transportation Systems (T-ITS) and a conference paper to CVPR/AAAI.
+                 <strong>Yicheng Qiao*</strong>, Wenzhuo Liu*, Zhiwei Li, Wei Zhang, Jiayin Zhu, Li Wang, Hong Wang, Huaping Liu, and Kunfeng Wang, “UDM-Net: Unified Assistive Driving Multi-task Perception Network based on Multimodal Fusion,” under review in IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024, <strong>*Co-first authors.</strong>
+            </li>
+            <li>
+              Wenzhuo Liu*,<strong>Yicheng Qiao*</strong>, Hong Wang, Huaping Liu, and Kunfeng Wang, “MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception,” under review in Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025,*Co-first authors.
             </li>
             <li>
                 <strong>Yicheng Qiao</strong>, Wei Liu, Bin Liang, Pengyun Wang, Haopeng Zhang and Junli Yang, "SeMask-Mask2Former: A Semantic Segmentation Model for High Resolution Remote Sensing Images," in <strong>IEEE Aerospace Conference</strong>, 2023. <a href="https://github.com/YichengQiao/SeMask-Mask2Former">[Github]</a> <a href="https://ieeexplore.ieee.org/document/10115761">[PDF]</a>
@@ -62,10 +67,7 @@ redirect_from:
             <li>
                 Wenzhuo Liu, <strong>Yicheng Qiao</strong>, Jing Liu, Yongqi Gan, Zongze Li and Guoying Zhang, "Froth edge segmentation in flotation images," in NONFERROUS METALS Mineral Processing Section, 2023
             </li>
-            <li>
-                Li Wang, Xinyu Zhang, <strong>Yicheng Qiao</strong>, Chuze Wu, Ziying Song, Lei Yang and Jun Li, "Research on 4D Imaging Radar Sensing Technology for Autonomous Driving," under <strong>review</strong> in AUTOMOTIVE ENGINEERING, 2023
-            </li>
-            <li>
+             <li>
                 Mingyan Yin, <strong>Yicheng Qiao</strong>, Dexiao Long Zhang, Jiashun Guo, Minyi Zhu, Can Wang, "Data Augmentation Based on Style Transfer," in Information Technology and Informatization, Issue 11, 2023
             </li>
            </ul>
