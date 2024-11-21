@@ -20,7 +20,7 @@ redirect_from:
         Chinese name /  乔亦诚
     </header>
  <section id="about-me">
-    <h2>My Story/h2>
+    <h2>My Story</h2>
     <p>
         I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. As the Chinese proverb goes, 
         <em>"The movement of heaven is full of power; thus the superior man makes himself strong and untiring."</em> 
