@@ -19,34 +19,49 @@ redirect_from:
         <h1>Yicheng Qiao</h1>
         Chinese name /  乔亦诚
     </header>
-    <section id="about-me">
-        <h2>About Me</h2>
-      <h3>My story</h3>
-         <p>
-      I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. As the Chinese proverb goes, *"The movement of heaven is full of power; thus the superior man makes himself strong and untiring."* This philosophy underpins my approach to life. 
-      My passion for artificial intelligence began in middle school. Ever since AlphaGo defeated the world's strongest Go player, I have been determined to pursue a career in AI and aspired to study a related field at university.
-     
-        </p>
-         <p>
-      To achieve this, I have worked tirelessly over the years. In the college entrance examination, I ranked in the **top 2.5%** among over <strong> 1.158 million</strong> candidates in Henan Province and I'm <strong>139/150</strong> in math, top 3000. Despite the challenges posed by the COVID-19 pandemic, I persevered and overcame numerous obstacles. <strong>Although my results fell slightly short of my expectations</strong>, I chose not to retake the exam. Instead, I embraced the opportunity to study computer science at a prestigious 211 university in Beijing.
-      </p>
-      <p>
-      During my undergraduate studies, I maintained strong academic performance while actively participating in research projects, leading to notable achievements. My ultimate goal is to conduct meaningful and impactful research. I firmly believe that studying at the forefront of AI research is crucial to achieving this ambition. Therefore, I am determined to pursue a PhD in Computer Science in the US and advance toward the pinnacle of academic excellence.
-     
-        </p>
-             </section>
-<section id="Research Interest">
-        <h2>Research Interest and Plan</h2>
-        <p> 
-         I am a joint program student at Tsinghua University and Beijing Sport University. I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed the joint educational program at Tsinghua University's School of Vehicle and Mobility.
-     
-         <ul> 
-          <li><strong>On the one hand</strong>, I have a strong interest in large language models (LLMs) and AI agents, with a particular focus on their applications in multimodal learning, embodied intelligence, and 3D computer vision.
-          </li> 
-          <li><strong>On the other hand</strong>, I have extensive practical experience in autonomous driving and generative AI, and I aim to further advance application-driven research in these areas. My goal is to develop AI systems that are safer, more reliable, and capable of efficient deployment in real-world scenarios.
-          </li> 
-        </ul> 
-        </p>
+ <section id="about-me">
+    <h2>About Me</h2>
+    <h3>My Story</h3>
+    <p>
+        I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. As the Chinese proverb goes, 
+        <em>"The movement of heaven is full of power; thus the superior man makes himself strong and untiring."</em> 
+        This philosophy underpins my approach to life. My passion for artificial intelligence began in middle school. 
+        Ever since AlphaGo defeated the world's strongest Go player, I have been determined to pursue a career in AI 
+        and aspired to study a related field at university.
+    </p>
+    <p>
+        To achieve this, I have worked tirelessly over the years. In the college entrance examination, 
+        I ranked in the <strong>top 2.5%</strong> among over <strong>1.158 million</strong> candidates in Henan Province, 
+        scoring <strong>139/150</strong> in mathematics and placing in the top 3,000. Despite the challenges posed by the 
+        COVID-19 pandemic, I persevered and overcame numerous obstacles. <strong>Although my results fell slightly short of my expectations</strong>, 
+        I chose not to retake the exam. Instead, I embraced the opportunity to study computer science at a prestigious 
+        211 university in Beijing.
+    </p>
+    <p>
+        During my undergraduate studies, I maintained strong academic performance while actively participating in research projects, 
+        leading to notable achievements. My ultimate goal is to conduct meaningful and impactful research. I firmly believe that studying 
+        at the forefront of AI research is crucial to achieving this ambition. Therefore, I am determined to pursue a PhD in Computer Science 
+        in the US and advance toward the pinnacle of academic excellence.
+    </p>
+</section>
+
+<section id="research-interest">
+    <h2>Research Interest and Plan</h2>
+    <p>
+        I am a joint program student at Tsinghua University and Beijing Sport University. I earned my degree in Data Science and Big Data Technology 
+        at Beijing Sport University and completed the joint educational program at Tsinghua University's School of Vehicle and Mobility.
+    </p>
+    <ul>
+        <li>
+            <strong>On the one hand</strong>, I have a strong interest in large language models (LLMs) and AI agents, with a particular focus on their 
+            applications in multimodal learning, embodied intelligence, and 3D computer vision.
+        </li>
+        <li>
+            <strong>On the other hand</strong>, I have extensive practical experience in autonomous driving and generative AI, and I aim to further 
+            advance application-driven research in these areas. My goal is to develop AI systems that are safer, more reliable, and capable of 
+            efficient deployment in real-world scenarios.
+        </li>
+    </ul>
 </section>
 <section id="publications">
         <h2>Publications & Preprints</h2>
