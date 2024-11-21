@@ -33,8 +33,8 @@ redirect_from:
         I ranked in the <strong>top 2.5%</strong> among over <strong>1.158 million</strong> candidates in Henan Province, 
         scoring <strong>139/150</strong> in mathematics and placing in the top 3,000. Despite the challenges posed by the 
         COVID-19 pandemic, I persevered and overcame numerous obstacles. <strong>Although my results fell slightly short of my expectations</strong>, 
-        I chose not to retake the exam. Instead, I embraced the opportunity to study computer science at a prestigious 
-        211 university in Beijing.
+        I chose not to retake the exam. Instead, I embraced the opportunity to study computer science at a <strong>Preject 
+        211</strong>strong> university in Beijing.
     </p>
     <p>
         During my undergraduate studies, I maintained strong academic performance while actively participating in research projects, 
