@@ -17,13 +17,21 @@ redirect_from:
 <body>
     <header>
         <h1>Yicheng Qiao</h1>
-        Chinese name / 中文名: 乔亦诚
+        Chinese name /  乔亦诚
     </header>
     <section id="about-me">
         <h2>About Me</h2>
-        <p>
-        I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. Guided by the principles of love, peace, and the pursuit of truth, I have dedicated myself to research in computer science.
+      <h3>My story</h3>
+         <p>
+      I am Yicheng Qiao, born on November 30th, 2001, in Kaifeng City, China. As the Chinese proverb goes, *"The movement of heaven is full of power; thus the superior man makes himself strong and untiring."* This philosophy underpins my approach to life. 
+      My passion for artificial intelligence began in middle school. Ever since AlphaGo defeated the world's strongest Go player, I have been determined to pursue a career in AI and aspired to study a related field at university.
+      
+      To achieve this, I have worked tirelessly over the years. In the college entrance examination, I ranked in the **top 2.5%** among over ** 1.158 million** candidates in Henan Province and I'm ** 139/150** in math, top 3000. Despite the challenges posed by the COVID-19 pandemic, I persevered and overcame numerous obstacles. **Although my results fell slightly short of my expectations**, I chose not to retake the exam. Instead, I embraced the opportunity to study computer science at a prestigious 211 university in Beijing.
+      
+      During my undergraduate studies, I maintained strong academic performance while actively participating in research projects, leading to notable achievements. My ultimate goal is to conduct meaningful and impactful research. I firmly believe that studying at the forefront of AI research is crucial to achieving this ambition. Therefore, I am determined to pursue a PhD in Computer Science in the US and advance toward the pinnacle of academic excellence.
+     
         </p>
+          <h3>My Research Interests</h3>
         <p>
         I am a joint program student at Tsinghua University and Beijing Sport University. I earned my degree in Data Science and Big Data Technology at Beijing Sport University and completed the joint educational program at Tsinghua University's School of Vehicle and Mobility.
         </p>
@@ -50,7 +58,8 @@ redirect_from:
                  <strong>Yicheng Qiao*</strong>, Wenzhuo Liu*, Zhiwei Li, Wei Zhang, Jiayin Zhu, Li Wang, Hong Wang, Huaping Liu, and Kunfeng Wang, “UDM-Net: Unified Assistive Driving Multi-task Perception Network based on Multimodal Fusion,” under review in IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024, <strong>*Co-first authors.</strong>
             </li>
             <li>
-              Wenzhuo Liu*,<strong>Yicheng Qiao*</strong>, Hong Wang, Huaping Liu, and Kunfeng Wang, “MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception,” under review in Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025,*Co-first authors.
+              Wenzhuo Liu*, Wenshuo Wang*, <strong>Yicheng Qiao*</strong>, Qiannan Guo, Jiayin Zhu, Pengfei Li, Zilong Chen, Huiming
+Yang, Zhiwei Li, Lening Wang, Tiao Tan, Huaping Liu “MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception,” under review in Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025,*Co-first authors.
             </li>
             <li>
                 <strong>Yicheng Qiao</strong>, Wei Liu, Bin Liang, Pengyun Wang, Haopeng Zhang and Junli Yang, "SeMask-Mask2Former: A Semantic Segmentation Model for High Resolution Remote Sensing Images," in <strong>IEEE Aerospace Conference</strong>, 2023. <a href="https://github.com/YichengQiao/SeMask-Mask2Former">[Github]</a> <a href="https://ieeexplore.ieee.org/document/10115761">[PDF]</a>
