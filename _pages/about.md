@@ -52,13 +52,11 @@ redirect_from:
     </p>
     <ul>
         <li>
-            <strong>On the one hand</strong>, I have a strong interest in large language models (LLMs) and AI agents, with a particular focus on their 
-            applications in multimodal learning, embodied intelligence, and 3D computer vision.
+          I have a strong interest in large language models (LLMs) and their applications, particularly in AI agents and multiagent systems. My focus is on leveraging LLMs to enhance the capabilities of AI agents and facilitate effective interactions within multiagent environments.
         </li>
         <li>
-            <strong>On the other hand</strong>, I have extensive practical experience in autonomous driving and generative AI, and I aim to further 
-            advance application-driven research in these areas. My goal is to develop AI systems that are safer, more reliable, and capable of 
-            efficient deployment in real-world scenarios.
+          <strong>Additionally </strong>, I have extensive practical experience in vision-based multimodal multi-task learning, including research on various visual tasks such as generative AI, 3D computer vision, and autonomous driving. By integrating LLMs with multimodal learning techniques, I aim to advance application-driven research in these areas, developing AI systems that are safer, more reliable, and efficiently deployable in real-world scenarios.
+           
         </li>
     </ul>
 </section>
