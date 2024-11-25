@@ -51,11 +51,13 @@ redirect_from:
         at Beijing Sport University and completed the joint educational program at Tsinghua University's School of Vehicle and Mobility.
     </p>
     <ul>
+
         <li>
-          I have a strong interest in large language models (LLMs) and their applications, particularly in AI agents and multiagent systems. My focus is on leveraging LLMs to enhance the capabilities of AI agents and facilitate effective interactions within multiagent environments.
+        I have a strong interest in large language models (LLMs) and their applications, particularly in AI agents and multiagent systems. My focus is on leveraging LLMs to enhance the capabilities of AI agents and facilitate effective interactions within multiagent environments.
+
         </li>
         <li>
-          <strong>Additionally </strong>, I have extensive practical experience in vision-based multimodal multi-task learning, including research on various visual tasks such as generative AI, 3D computer vision, and autonomous driving. By integrating LLMs with multimodal learning techniques, I aim to advance application-driven research in these areas, developing AI systems that are safer, more reliable, and efficiently deployable in real-world scenarios.
+          <strong>Additionally </strong>, I have extensive practical experience in vision-based multimodal multi-task learning, including research on various visual tasks such as generative AI, autonomous driving, and 3D computer vision. I aim to advance application-driven research in these areas, developing AI systems that are safer, more reliable, and efficiently deployable in real-world scenarios.
            
         </li>
     </ul>
