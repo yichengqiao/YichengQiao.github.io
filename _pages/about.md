@@ -38,9 +38,8 @@ redirect_from:
     </p>
     <p>
         During my undergraduate studies, I maintained strong academic performance while actively participating in research projects, 
-        leading to notable achievements. My ultimate goal is to conduct meaningful and impactful research. I firmly believe that studying 
-        at the forefront of AI research is crucial to achieving this ambition. Therefore, I am determined to pursue a PhD in Computer Science 
-        in the US and advance toward the pinnacle of academic excellence.
+        leading to notable achievements. My ultimate goal is to conduct meaningful research and project. I firmly believe that studying 
+        at the forefront of AI research is crucial to achieving this ambition.
     </p>
 </section>
 
@@ -53,12 +52,7 @@ redirect_from:
     <ul>
 
         <li>
-        I have a strong interest in large language models (LLMs) and their applications, particularly in AI agents and multiagent systems. My focus is on leveraging LLMs to enhance the capabilities of AI agents and facilitate effective interactions within multiagent environments.
-
-        </li>
-        <li>
-          <strong>Additionally </strong>, I have extensive practical experience in vision-based multimodal multi-task learning, including research on various visual tasks such as generative AI, autonomous driving, and 3D computer vision. I aim to advance application-driven research in these areas, developing AI systems that are safer, more reliable, and efficiently deployable in real-world scenarios.
-           
+        I am keenly interested in the intersection of multimodal learning, multi-task learning, and AI agents driven by large languagemodels (LLMs) and generative models. Humans naturally integrate vision, speech, and action. As AI research shifts toward more generalizable models, I strive to develop solutions that can interpret diverse inputs, handle multiple tasks, and ultimately improve people’s lives.
         </li>
     </ul>
 </section>
