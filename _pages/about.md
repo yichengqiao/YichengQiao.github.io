@@ -55,12 +55,6 @@ redirect_from:
       <strong>C2:</strong> Liu, W., <u><strong>Yicheng Qiao</strong></u>, Wang, Z., Guo, Q., Chen, Z., Zhou, M., Li, X., Wang, L., Li, Z., Liu, H., Wang, W. “TEM<sup>3</sup>-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving” <em>under review</em> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025. <a href="https://github.com/yichengqiao/TEM3-Learning">[Github]</a>
     </li>
     <li>
-      <strong>C3:</strong> <u><strong>Yicheng Qiao</strong></u>, Liu, W., Liang, B., Wang, P., Zhang, H. and Yang, J. “SeMask-Mask2Former: A Semantic Segmentation Model for High Resolution Remote Sensing Images,” in IEEE Aerospace Conference (AeroConf), 2023. <a href="https://github.com/YichengQiao/SeMask-Mask2Former">[Github]</a> <a href="https://ieeexplore.ieee.org/document/10115761">[PDF]</a>
-    </li>
-    <li>
-      <strong>C4:</strong> Liu, W., Wang, H., <u><strong>Yicheng Qiao</strong></u>, Liang, B., Zhang, H. and Yang, J. “DLAFNET: A Direct Fusion Method Of 2D Aerial Image And 3D Lidar Point Cloud For Semantic Segmentation,” in International Geoscience and Remote Sensing Symposium <strong>(IGARSS Oral)</strong>, 2023. <a href="https://github.com/YichengQiao/DLAFNet">[Github]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10282837">[PDF]</a>
-    </li>
-    <li>
       <strong>J1:</strong> Liu, W.<sup>*</sup>, <u><strong>Yicheng Qiao</strong></u><sup>*</sup>, Li, Z., Zhang, W., Zhu, J., Wang, L., Wang, H., Liu, H., and Wang, K. “UDM-Net: Unified Assistive Driving Multi-task Perception Network based on Multimodal Fusion,” in IEEE <strong>Transactions</strong> on Intelligent Transportation Systems (T-ITS), 2025,<sup>*</sup> Co-first authors (<em>JCR-Q1</em>). <a href="https://github.com/yichengqiao/UDM-Net">[Github]</a>
     </li>
     <li>
@@ -74,6 +68,12 @@ redirect_from:
     </li>
     <li>
       <strong>J5:</strong> Tan, Q., Liu, W., Bi, H., <u><strong>Yicheng Qiao</strong></u>, Jiang, Y., Guo, Q., Liu, H., Li, Z., Qiu, C. “SAMOccNet: Refined SAM-based Surrounding Semantic Occupancy Perception for Autonomous Driving,” <em>under review</em> in NEUROCOMPUTING, 2025 (<em>JCR-Q1</em>).
+    </li>
+    <li>
+      <strong>C3:</strong> <u><strong>Yicheng Qiao</strong></u>, Liu, W., Liang, B., Wang, P., Zhang, H. and Yang, J. “SeMask-Mask2Former: A Semantic Segmentation Model for High Resolution Remote Sensing Images,” in IEEE Aerospace Conference (AeroConf), 2023. <a href="https://github.com/YichengQiao/SeMask-Mask2Former">[Github]</a> <a href="https://ieeexplore.ieee.org/document/10115761">[PDF]</a>
+    </li>
+    <li>
+      <strong>C4:</strong> Liu, W., Wang, H., <u><strong>Yicheng Qiao</strong></u>, Liang, B., Zhang, H. and Yang, J. “DLAFNET: A Direct Fusion Method Of 2D Aerial Image And 3D Lidar Point Cloud For Semantic Segmentation,” in International Geoscience and Remote Sensing Symposium <strong>(IGARSS Oral)</strong>, 2023. <a href="https://github.com/YichengQiao/DLAFNet">[Github]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10282837">[PDF]</a>
     </li>
     <li>
       <strong>CJ1:</strong> Liu, W., <u><strong>Yicheng Qiao</strong></u>, Yin, X., Liu, J., Gan, Y., Li, Z., Zhang, G. “Froth edge segmentation in flotation images [J].” Nonferrous Metals (Mineral Processing Section), 2024(4):67-76.
