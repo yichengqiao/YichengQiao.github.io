@@ -46,7 +46,7 @@ redirect_from:
 </section>
 
 <section id="publications">
-  <h2>Publications & Preprints</h2>
+  <h2>Publications & Preprints (Incl. Conference, Journal and Chinese Core Journal)</h2>
   <ul>
     <li>
       <strong>C1:</strong> Liu, W.<sup>*</sup>, Wang, W., <u><strong>Yicheng Qiao</strong></u><sup>*</sup>, Guo, Q., Zhu, J., Li, P., Chen, Z., Yang, H., Li, Z., Wang, L., Tan, T., Liu, H. “MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception,” in Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025,<sup>*</sup> Main authors. <a href="https://github.com/yichengqiao/MMTL-UniAD">[Github]</a>
