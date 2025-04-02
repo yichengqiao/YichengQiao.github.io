@@ -16,8 +16,8 @@ redirect_from:
 </head>
 <body>
     <header>
-        <h1>Yicheng Qiao</h1>
-        Chinese name: 乔亦诚
+        <h1>Yicheng Qiao | 乔亦诚</h1>
+
     </header>
  <section id="about-me">
     <h2>My Story</h2>
